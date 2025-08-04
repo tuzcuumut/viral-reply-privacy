@@ -16,7 +16,7 @@ We typically reply within 24–48 hours.
 
 ## 🔒 Privacy & Terms
 
-- [Privacy Policy]([https://tuzcuumut.github.io/pray-bible-privacy-policy/])
+- [Privacy Policy]([https://raw.githubusercontent.com/tuzcuumut/viral-reply-privacy/refs/heads/main/privacy.md])
 - [Terms of Use]([https://www.apple.com/legal/internet-services/itunes/dev/stdeula/])
 
 ---
